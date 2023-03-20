@@ -10,6 +10,3 @@
 
    Tech used : HTML CSS JAVASCRIPT 
 
--> Task 3 : Temperature converter website
-
-   Tech used : HTML CSS JAVASCRIPT
